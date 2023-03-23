@@ -1,5 +1,5 @@
 <template>
     <div>
-        <h1>aaaa</h1>
+        <h1>フッター</h1>
     </div>
 </template>

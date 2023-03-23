@@ -1,6 +1,7 @@
 <template>
-    <div>
-      Some default layout shared across all pages
-      <slot />
-    </div>
-  </template>
+  <div>
+    <OrganismsTheHeader />
+    <slot />
+    <OrganismsTheFooter />
+  </div>
+</template>
