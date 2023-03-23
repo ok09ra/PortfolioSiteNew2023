@@ -1,0 +1,15 @@
+Atomic design について
+https://qiita.com/citrus_candy/items/74d602f672ccfc93490e
+
+https://techcon.gree.jp/2021/session/ShortSession-1
+
+
+Nuxt3について
+https://qiita.com/Eustace/items/95c2ccc86e8824cb3d6d
+
+slotについて
+https://qiita.com/soicchi/items/25f57f706465e8d5c137
+
+
+命名規則関連
+https://qiita.com/ngron/items/ab2a17ae483c95a2f15e
