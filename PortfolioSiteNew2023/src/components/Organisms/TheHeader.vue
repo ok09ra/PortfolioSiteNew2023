@@ -1,5 +1,5 @@
 <template>
     <div>
-        <h1>ヘッダー</h1>
+        <AtomsLogo />
     </div>
 </template>
